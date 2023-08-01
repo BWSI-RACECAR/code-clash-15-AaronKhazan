@@ -46,7 +46,7 @@ class Solution:
                 final_event.append(interval)
                 oldTime = EndT
         return final_event
-            pass
+            
 
 
 
